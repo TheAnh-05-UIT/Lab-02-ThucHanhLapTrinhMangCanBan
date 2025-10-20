@@ -2,12 +2,12 @@
 ## 24520115 - Nguyễn Quang Thế Anh
 
 ## Cách chạy bài thực hành 
-### Cách 1 dùng git clone
+### Cách 1: dùng git clone
 ``` bash
 git clone https://github.com/TheAnh-05-UIT/Lab-02-ThucHanhLapTrinhMangCanBan.git
 ```
 * Vào thư mục Lab-01-ThucHanhLapTrinhMangCanBan chạy file .sln
-### Cách tải file dưới định dạng .zip
+### Cách 2: tải file dưới định dạng .zip
 * giải nén file
 * Vào thư mục Lab-02-ThucHanhLapTrinhMangCanBan chạy file .sln
 ### Cách giải quyết khi chạy gặp lỗi 
