@@ -17,3 +17,7 @@ git clone https://github.com/TheAnh-05-UIT/Lab-02-ThucHanhLapTrinhMangCanBan.git
 * Tìm đến mục Platform target.
 * Đổi nó từ Any CPU thành x64.
 * Lưu lại (Ctrl + S) và Build lại toàn bộ project (Build -> Rebuild Solution).
+* Lúc Debug đổi thành x64
+### Để xem các file output cho các form
+* các file input và output nằm trong folder Debug của project
+* Lab02_24520115_NguyenQuangTheAnh\bin\x64\Debug
